@@ -1,0 +1,205 @@
+{
+  "hooks":{
+    "Shababs botten":[
+      "Shababs botten Grüne Augen, braune Locken",
+      "TNs rocken Halbe Kiste, wenn wir shoppen",
+      "Shababs botten Grüne Augen, braune Locken",
+      "TNs rocken Halbe Kiste, wenn wir shoppen"
+      ],
+    "Airwaves":[
+      "Airwaves in mein'n Jeans und Trikot von Zizou",
+      "Orginal Berliner Boys, nein, wir sind nicht wie du",
+      "Wesh, wesh, ich rock' Tns und Tracksuits für die Crew",
+      "Und lauf' auf Pradas durch 6-1 mit Saka-Wasser-Tattoo"
+    ],
+    "Hauseingang":[
+      "Ey yo, ich zähl' kleine Scheine in mein' Hauseingang",
+      "Sie sagt, „Ruf mich an, wenn du rauskomm'n kannst“",
+      "Blaue Tracksuit rock' ich auf entspannt",
+      "Symba Double Cup, RB raucht zwei Gramm"
+    ],
+    "Sommergewitter":[
+      "Sommergewitter in mei'm Block, hör’ den Regen ganze Nacht",
+      "Ich will Butterfly-Doors und ein Panoramadach",
+      "Meine Gegend, meine Stadt, hör' den Regen ganze Nacht",
+      "Meine Augen werden schwer, weil ich war zu lange wach"
+    ],
+    "Doppel G":[
+      "Meine Kette, sie spielt Tennis, als wär sie Serena Williams",
+      "In der Gruppe sind nur Trapper, nein, wir häng'n nicht mit Civilians",
+      "Und ich wollte nur paar Zwannis, aber heute mach' ich Millions",
+      "Und wir hatten keine Heroes, nein, wir gucken zu den Villains",
+      "Meine Kette, sie spielt Tennis, so als wär sie Boris Becker",
+      "Mit Kanaken in der Gegend, meine Brüdеr alles Trapper",
+      "Und ich mache nur еin'n Song, auf einmal ändert sich das Wetter",
+      "Hab' ein'n Reiter auf mein'n Boxers und zwei Gs auf mei'm Sweater"
+    ],
+    "Bagchaser Can":[
+      "Zwanzig in mein'n Jeans, hundert verkauft",
+      "Ich muss wieder zu mein' Plug, ich muss wieder da raus",
+      "Ich hab' zwanzig in den Jeans, hundert verkauft",
+      "Ich muss wieder zu mein' Plug, ich muss wieder da raus"
+    ],
+    "Ms. Jackson": [
+      "Ja, sie sagt, sie will mich seh'n, weil sie kann mich nicht vergessen",
+      "Und sie fragt: „Ist das für immer?“, doch ich kann's ihr nicht versprechen",
+      "Und ich komm' in Doppel-G, und sie kommt in EA7",
+      "Sie hat so viel zu erzähl'n jedes Ma', wenn wir uns treffen"
+    ]
+},
+"intros":{
+  "Shababs botten":[
+    "Ey (K-K-Kingsnake) Ey, Pasha, ey, ja (YungGlizzy), ey"
+  ],
+  "Airwaves":["(Stickle) Ey, ey, ey"],
+  "Hauseingang":["Ey, Pasha, Stickle Ey (Stickle), ey, ey"],
+  "Sommergewitter":["(Stickle)"],
+  "Ms. Jackson":["Ey, Gang"]
+},
+"parts":{
+  "Shababs botten":[
+    "Prada-Çanta voller Haze Komplett kafa, hör' „The Race“, ey",
+    "Braune Locken, grüne Augen Shababs sind am botten, no face, no case, ey",
+    "Halbe Kiste im Toyota gebunkert 61, keiner sober, nur Kundschaft,",
+    "Neue Ringe, neue Ice 61 grade heiß, ey",
+    "Shawty, sag mir, wie du heißt Hab' vergessen, tut mir leid, ey",
+    "An Sarrazin will ich verdien'n, bin in Berlin Sein Sohn holt jede Woche Tilidin",
+    "Mehringdamm, Saka-Wasser oder Lean Müşteris schreiben mir, „Komm vorbei“",
+    "Und alle paar Monate flieg' ich Türkei Ich ess' ein'n Adana oder auch zwei",
+    "RB hat Katana an seinem Bein und"
+  ],
+  "Airwaves":[
+    "Hinterhof im Schatten, Packs abpacken im Mailand-Trikot",
+    "Fasson tief und hinten lang, Canım, das trägt man einfach so",
+    "Prada-Fleece, hab' Zwannis bei in Boxershorts aus Türkei",
+    "Schlechte Zeiten geh'n vorbei, iPhone 11, Optik Fisheye",
+    "Schattenboxen, Hagelberger Ecke Möckernstraße nachts",
+    "ta7aria kontrollier'n, fragen sich, was Pasha macht",
+    "Project Baby, Kodak Black, Marseille-Jacke hellblau an",
+    "Sommer 50 ccm, mach' Wheelies über Mehringdamm",
+    "Sitz' mit Zahnstocher auf Bank, Berlin Boys, EU connect",
+    "Ganze Novak-Đoković-Lacoste-Season im Gepäck",
+    "Bela Boys mit Spanisch laufen auf Langeweile durch Hood",
+    "Leben schnell, machen Geld, iPhone-Display ist kaputt",
+    "Ey, dunkelblaue Prada-Cups, Kalenji-Kapuze tief",
+    "Du denkst, du wirst überfall'n, wenn du ein'n von uns siehst",
+    "Ball hoch halten mit Shabab und Leute grüßen nebenbei",
+    "Große Louis-Taschen tragen und Piqué-Polos in Weiß",
+    "„Hallo, ich bin's“, am Handy red' ich wie bei Sims",
+    "Kymco-Roller und ich fahr' Mehringdamm den ganzen Tag",
+    "ta7os wissen, kenn'n die Songs, 61, Berlin-Bronx",
+    "Drücke Zwannis, hör' Sade, grade neunzehn − Mbappé",
+    "Spanisch guckt aus Lacoste-Beanie bei Bené hinten raus",
+    "Sitz' am Fenster, Altbauwohnung, Mehringdamm, Hinterhaus",
+    "Jugendstil-Fassaden, hohe Decken, Treppenhäuser schön",
+    "Schlaf' zehn Stunden Minimum, daran könnt ich mich gewöhn'n"
+  ],
+  "Hauseingang":[
+    "Ey yo, Locken gucken hinten aus Tn-Cap raus",
+    "Lacoste-Tattoo auf mein' Bein, Nike-Tattoo auf mein' Bauch",
+    "Lange Nacht in Hood, irgendwann komm' ich zu dir",
+    "Canım, bitte bete, dass mir heute nichts passiert",
+    "RB raucht zwei Gramm, Cano zählt Geld",
+    "Geh' nur auf die Knie, wenn ein Schein runterfällt",
+    "Hinterhof in Hood, chill'n mit Shabab",
+    "Wir hör'n 22Gz, OFB jeden Tag",
+    "Asics und Tns vor der Tür, wenn wir chill'n",
+    "Berlin-Crime-Wave, Leute fühl'n unsern Film",
+    "Narben auf der Haut, Prada-Bag vom Basar",
+    "Alte Liebe in mein' Traum, neue Liebe in mein'n Arm'n",
+    "Wir sind Engel, doch gefall'n, 2000 in Berlin",
+    "Heut fahr'n wir durch Hood und woll'n Tausender verdien'n",
+    "Flügel sind gebrochen und die Seel'n werden kalt",
+    "Ich werd' höchstens dreißig, Canım, nein, ich werd' nicht alt"
+  ],
+  "Sommergewitter":[
+    "Letztes Jahr hatten wir nichts, aber jetzt ist es vorbei",
+    "Unsre Eltern kam'n mit zwei Taschen damals aus Türkei",
+    "Deshalb jag' ich das Papier in 'nem blauen Prada-Sweatshirt",
+    "Mein Kumpel aus Paris schreibt mir, dass man da mein'n Track hört",
+    "Stickle macht mir 'n Beat und dann mach' ich, was ich machen muss",
+    "Die Cops war’n bei RB, häng’ auf IG, hoffen, sie fassen uns",
+    "Sie kam'n alleine rein, weil seine Mama war nicht da",
+    "Sein Nachbar macht ihn’n auf – ist es überhaupt legal?",
+    "Konfigurier' mir ein'n Cayenne auf mein' alten iPhone 5",
+    "Sie hat gehört, ich werd’ erpresst, und sie fragt mich, ob es stimmt",
+    "Aber Baby, ich bin good, glaub mir, das ist alles Taf'",
+    "Und sie schreibt mir um halb drei in 'ner warmen Sommernacht",
+    "Lange Nächte in 61, in der Gegend macht ich meine ersten Schritte",
+    "Heute kontrollier'n uns Ta7os, weil sie denken, dass ich ticke",
+    "Und mein Team ist immer mit mir, weil ich euch niemals vergess'",
+    "Will 'ne Iced-out-Flasche Saka Wasser, VVS",
+    "Und wir steh'n am Straßenrand, grüßen Leute, die wir kenn'n",
+    "Mein Couseng hat 'ne Glizzy unter Casablanca-Hemd",
+    "Meine Stadt im Sommer grün, City-Boys, wir sind zu viert",
+    "Gneisenau bis Hermannplatz und wir drücken garantiert",
+    "Und du triffst mich in mein' Kiez, triffst mich nicht im KaDeWe",
+    "Nur getickt am Schlachtensee, weil ich da nicht baden geh'",
+    "Und du weißt, in mein' Herz hab' ich kein'n Platz",
+    "Doch ich schreib' dir um halb drei in 'ner warmen Sommernacht"
+  ],
+  "Doppel G":[
+    "Und auf einmal gab's Gewitter",
+    "Und mit fünfzehn war ich draußen und ich hör' von Nimo „Bitter“",
+    "Ich hab' Birds auf meiner Timeline, doch ich war noch nie auf Twitter",
+    "20-18, treff' ein'n Kunden, gib ihn Zwanni und ein'n Sticker",
+    "Brüder fahr'n in' Apple-Store, iPhones auf dem Pausenhof",
+    "Mein Bruder will mein'n Bruder Moabit seh'n, doch hat Hausverbot",
+    "Ja, sie will mein Herz, doch das geht sie nichts an",
+    "Ja, ich hab' drei iPhones, doch ich ruf' sie nicht an",
+    "Prada-Schuhe und -Hemd, wenn wir zu Gericht fahr'n",
+    "Hinten im Cayenne mit Bros aus Kreuzberg six-one",
+    "Ja, ich bin auf Fatness, sag' ein' Ta7o: „Bleib mal locker“",
+    "Riesenjoint und Prada-Brille, ich glaub', ich bin Harry Potter",
+    "Ich war grade neunzehn Jahre, Major-Labels machen Offer",
+    "Halbe Kiste aus mein' Video gleiche Tag vercheckt und nochma'"
+  ],
+  "Bagchaser":[
+    "21 Jahre jung, nenn mich Bagchaser Can Und RB chast sie auch, vielleicht sind wir verwandt",
+    "Im Cayenne in Paris, ich hör' Mac Miller Auf den Streets in mein' Kiez, Koks- und Crack-Dealer",
+    "Meine Brüder sind gestört, ey, die spinn'n dann Vor Gericht sag' ich, dass ich mich nicht erinnern kann",
+    "Ey, mein Leben ist ein Film und sie schau'n ihn an Ja, ich kauf' mir Sachen, die ich nicht gebrauchen kann",
+    "Hundert Zehner, hundert Zwannis, er verkauft das (Tek-tek) Und ich hol' es aus dеm Zula, weil du brauchst das",
+    "Dicka, alles, was ich sage, ja, ich lauf' das Und ich wеiß, dass meine Gegend auf mich aufpasst",
+    "Nimm mich mit in dein Loft, ich rauch' Dry auf der Couch Und RB kommt vorbei und packt drei Sorten aus",
+    "Hab' nur Liebe für die Gang, meine Fans Meine Brüder, meine Fam, wir machen Bands (Cash)",
+    "Und im Winter nach Miami Ta7os suchen, aber finden nicht mein Handy (Niemals)",
+    "Steh'n im Park mit Kapuze so wie Kenny Hundert Gramm, Tempelhofer Damm, treff' ihn PENNY",
+    "Das' mein Bro, das' mein Twin Manchmal Krise, aber wallah, ist nicht schlimm",
+    "Flieg' in' Urlaub und ich geb' ihm meine SIM Und schon seit wir fünfzehn sind, machen wir Gewinn"
+  ],
+  "Ms. Jackson":[
+    "Jedes Ma', wenn wir uns treffen, lern' ich wieder was von dir",
+    "Du und ich sind Gang, aber es ist viel passiert",
+    "Bin im Club mit meiner F, weil ich wurd nicht kontrolliert",
+    "Deine Mama hört mein'n Song und fragt: „Wer hat das komponiert?“",
+    "Ich hab' das geschrieben im Taxi für Ihre Tochter, Ms. Jackson",
+    "Ich bin aus Kreuzberg 61 und ein Rockstar, Ms. Jackson",
+    "Und für die Pradas mussten Brüder ihre SIM-Karte wechseln",
+    "Wie viele Hindernisse mussten wir schon hinter uns setzen?",
+    "Ich rauch' Kush in Costello SLR",
+    "Ist nicht safe in der Hood, nein, hier gibt's kein AppleCare",
+    "Bei uns sind die Ketten schwer, ich hör' IAM – „Petit frère“",
+    "Narcotic in Westberlin, wir spiel'n Wer wird Millionär?",
+    "Jedes Ma', wenn wir uns treffen, lern' ich wieder was von dir",
+    "Du und ich sind Gang, sie könn'n niemals sein wie wir",
+    "Und mit vierzehn hinten rechts, Opel Zafira, aufs Revier",
+    "Ist okay, doch nicht mir, weil ich nicht kooperier'",
+    "Tut mir leid, doch Ihre Tochter mag ein'n Jung'n aus 61, Ms. Jackson",
+    "Altbauwohnung oder Blocks, man drückt mit sechzehn schon Päckchen",
+    "Wo Passanten auf dem Bürgersteig nur wegseh'n bei Action",
+    "Und wenn du Geld machst, trägst du Eisen an dein' Bauch für Protection",
+    "Prada Sport, Tom Ford, spring' in' Cabrio-Rücksitz",
+    "Ja, ich lass' ein'n Kunden warten, doch bei dir bin ich pünktlich",
+    "Daulis fahr'n durch unsre Gegend jeden Tag mehrmals stündlich",
+    "Kontrollier'n uns gründlich, aber werden nicht fündig"
+  ]
+},
+"outros":{
+  "Shababs botten":[
+    "Shababs botten Grüne Augen, braune Locken",
+    "TNs rocken Halbe Kiste, wenn wir shoppen"
+  ],
+  "Sommergewitter":["(Plug)"]
+}
+}

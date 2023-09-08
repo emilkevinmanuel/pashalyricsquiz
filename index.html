@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pasha Lyrics</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue-indigo.min.css" /> 
+    <script>
+
+        function getRandomInt(max) {
+        return Math.floor(Math.random() * max);
+        }
+        let solutionStr = ""
+        window.onload = function(){
+        let height = window.innerHeight;
+        document.getElementsByTagName("body")[0].style.height = `${height}px`};
+        newClue();
+
+        async function newClue(){
+            const response = await fetch("lyrics.json");
+            const lyrics = await response.json();
+            document.getElementById("solBtn").innerHTML = "Lösung"
+            document.getElementById("solBtn").setAttribute( "onClick", "javascript: reveal();" );          
+            let categories = new Array()
+            if (document.getElementsByClassName("mdl-switch__input")[0].checked){categories.push("intros")}
+            if (document.getElementsByClassName("mdl-switch__input")[1].checked){categories.push("parts")}
+            if (document.getElementsByClassName("mdl-switch__input")[2].checked){categories.push("hooks")}
+            if (document.getElementsByClassName("mdl-switch__input")[3].checked){categories.push("outros")}
+            
+            let category = categories[Math.floor(Math.random()*categories.length)];
+            let solution = (Object.keys(lyrics[category]))[Math.floor(Math.random()*(Object.keys(lyrics[category])).length)];
+            let clue = lyrics[category][solution][Math.floor(Math.random()*lyrics[category][solution].length)];
+            document.getElementById("clue").innerHTML = `${clue}`;
+            document.getElementById("cat").innerHTML = `${category}`;
+            solutionStr = solution
+        }
+
+        function reveal(){
+            document.getElementById("clue").innerHTML = `${solutionStr}`;
+            document.getElementById("cat").innerHTML = `Lösung`;
+            document.getElementById("solBtn").innerHTML = "Weiter"
+            document.getElementById("solBtn").setAttribute( "onClick", "javascript: newClue();" );
+        }
+
+    </script>
+</head>
+<body>
+    <div class="main">
+        <h2>Pasha Lyrics Quiz</h2><br>
+
+        <p class="clue cat" id="cat">...</p><br>
+
+        <p class="clue" id="clue">...</p><br>
+
+        <div class="btncont2">
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent" onclick="reveal()" id="solBtn">
+            Lösung
+        </button>
+    </div>
+
+        
+        <div class="btncont">
+        <div class="switch">
+        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-1">
+            <input type="checkbox" id="switch-1" class="mdl-switch__input" checked>
+            <span class="mdl-switch__label">Intros</span>
+        </label>
+        </div>
+        <div class="switch">
+        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-2">
+            <input type="checkbox" id="switch-2" class="mdl-switch__input" checked>
+            <span class="mdl-switch__label">Parts</span>
+        </label>
+    </div>
+    <div class="switch">
+        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-3">
+            <input type="checkbox" id="switch-3" class="mdl-switch__input" checked>
+            <span class="mdl-switch__label">Hooks</span>
+        </label>
+    </div>
+    <div class="switch">
+        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-4">
+            <input type="checkbox" id="switch-4" class="mdl-switch__input" checked>
+            <span class="mdl-switch__label">Outros</span>
+        </label>
+    </div>
+    
+        </div>
+    </div>
+</body>
+</html>
